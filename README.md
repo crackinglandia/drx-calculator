@@ -7,3 +7,8 @@ License
 =======
 
 **DRx Calculator** is distributed under the [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html) license.
+
+Documentation
+=============
+
+Official documentation can be found [here](http://code.google.com/p/drx-calculator/)
